@@ -1,6 +1,6 @@
 import React from "react";
 import style from "../style/welcome.module.css";
-import {Link} from "react-router-dom";
+import { Link } from "react-router-dom";
 
 export default function Welcome() {
   return (
@@ -25,11 +25,11 @@ export default function Welcome() {
         <Link
           exact
           to="/create_username"
-          className="primaryBtn d-flex align-items-center mb-3">
-            Create Your Username{" "}
-            {/* <img src="" alt=""></img> */}
-          </Link>
-          <Link>Got invited? Sign In</Link>
+          className="primaryBtn d-flex align-items-center mb-3"
+        >
+          Create Your Username {/* <img src="" alt=""></img> */}
+        </Link>
+        <Link>Got invited? Sign In</Link>
       </div>
     </div>
   );

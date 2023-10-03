@@ -1,0 +1,71 @@
+[
+    {
+      "id": 1,
+      "title": "POWER MEETING",
+      "sub_title": "Learn how to 10x Your Income",
+      "members": [
+        {
+          "first_name": "Marcus",
+          "last_name": "R"
+        },
+        {
+          "first_name": "Cassandra",
+          "last_name": "D"
+        },
+        {
+          "first_name": "Nyla",
+          "last_name": "R"
+        },
+        {
+          "first_name": "Neriah",
+          "last_name": "R"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "REAL ESTATE INVESTMENT TEAM",
+      "sub_title": "Why you should buy now the interest rates are high",
+      "members": [
+        {
+          "first_name": "Marcus",
+          "last_name": "R"
+        },
+        {
+          "first_name": "Cassandra",
+          "last_name": "D"
+        },
+        {
+          "first_name": "Nyla",
+          "last_name": "R"
+        },
+        {
+          "first_name": "Neriah",
+          "last_name": "R"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "LATE NIGHT VIBES",
+      "sub_title": "Deepest Secerts Revealed",
+      "members": [
+        {
+          "first_name": "Marcus",
+          "last_name": "R"
+        },
+        {
+          "first_name": "Cassandra",
+          "last_name": "D"
+        },
+        {
+          "first_name": "Nyla",
+          "last_name": "R"
+        },
+        {
+          "first_name": "Neriah",
+          "last_name": "R"
+        }
+      ]
+    }
+  ]
